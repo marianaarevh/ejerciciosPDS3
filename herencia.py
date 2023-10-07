@@ -38,7 +38,7 @@ print("Ejercicio 2: ")
 # Crea una clase llamada "Figura" con un método "calcularArea()"
 class Figura:
     def calcularArea(self):
-        print("Se calculó el area de la figura")
+        print("Por ahora el area es 0")
 
 # y una subclase llamada "Circulo" que herede de "Figura". 
 class Circulo(Figura):

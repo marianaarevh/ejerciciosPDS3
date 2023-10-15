@@ -20,3 +20,5 @@ public class Calculadora {
         return(double) a/b;
     }
 }
+
+// Realiza los asserts de la clase calculadora en sus métodos.

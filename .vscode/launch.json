@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "accesoArreglo",
+            "request": "launch",
+            "mainClass": "accesoArreglo",
+            "projectName": "ejerciciosPDS3_7d033e67"
+        },
+        {
+            "type": "java",
+            "name": "divisionSegura",
+            "request": "launch",
+            "mainClass": "divisionSegura",
+            "projectName": "ejerciciosPDS3_7d033e67"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "validacionEdad",
+            "request": "launch",
+            "mainClass": "validacionEdad",
+            "projectName": "ejerciciosPDS3_7d033e67"
+        }
+    ]
+}

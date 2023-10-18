@@ -21,4 +21,3 @@ public class Calculadora {
     }
 }
 
-// Realiza los asserts de la clase calculadora en sus métodos.
